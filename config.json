@@ -1,4 +1,4 @@
 {
-  "dl": "http://localhost:3050/crates/api/v1/crates",
+  "dl": "http://localhost:3051/crates/api/v1/crates",
   "api": "https://crates.io"
 }
